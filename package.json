@@ -2,7 +2,7 @@
   "name": "",
   "version": "0.1.0",
   "private": true,
-  "homepage":"https://idaselma3025.github.io/react-clicky/"
+  "homepage":"https://idaselma3025.github.io/react-clicky/",
   "dependencies": {
     "gh-pages":"^1.0.0",
     "react": "^16.3.1",
